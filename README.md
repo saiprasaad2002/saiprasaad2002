@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saiprasaad2002
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning python and c programming
+- 👋 Hi, @saiprasaad2002 over here
+- 👀 Enthusiatic enough in cloud computing
+- 🌱 Beginner at python programming
 - 📫 How to reach me:saiprasaad18@gmail.com
 
 <!---
