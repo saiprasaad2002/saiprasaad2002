@@ -1,6 +1,5 @@
-- 👋 Hi, @saiprasaad2002 over here
-- 👀 Enthusiatic enough in cloud computing
-- 🌱 Beginner at python programming
+- 👋 Hello waves to my peeps from Saiprasaad
+- 🌱 Python enthusiast, Cup of Java
 - 📫 How to reach me:saiprasaad18@gmail.com
 
 <!---
