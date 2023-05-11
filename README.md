@@ -1,5 +1,5 @@
-- 👋 Hello waves to my peeps from Saiprasaad
-- 🌱 Python enthusiast, Cup of Java
+- 👋 Hello waves to my peeps
+- 🌱 Tech,UI/UX,Engineering Enthusiast
 - 📫 How to reach me:saiprasaad18@gmail.com
 
 <!---
