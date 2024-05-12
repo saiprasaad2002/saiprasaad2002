@@ -1,5 +1,5 @@
 - 👋 Hello waves to my peeps
-- 🌱 Tech,UI/UX,Engineering Enthusiast
+- 🌱 Tech,UI/UX
 - 📫 How to reach me:saiprasaad18@gmail.com
 
 <!---
