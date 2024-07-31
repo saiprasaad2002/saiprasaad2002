@@ -1,6 +1,5 @@
-- 👋 Hello waves to my peeps
-- 🌱 Tech,UI/UX
-- 📫 How to reach me:saiprasaad18@gmail.com
+Data Engineering | Relational Databases | Frontend |
+Reach me @ saiprasaad18@gmail.com
 
 <!---
 saiprasaad2002/saiprasaad2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
