@@ -1,4 +1,4 @@
-Data Engineering | Relational Databases | Frontend |
+Data Engineering | Relational Databases|
 Reach me @ saiprasaad18@gmail.com
 
 <!---
