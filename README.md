@@ -1,4 +1,4 @@
-Data Engineering | Relational Databases|
+AI Engineer
 Reach me @ saiprasaad18@gmail.com
 
 <!---
